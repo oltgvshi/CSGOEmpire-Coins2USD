@@ -10,6 +10,7 @@
     - [x] USD
     - [ ] EUR
     - [ ] CNY
+- [ ] List the extension on Chrome
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
